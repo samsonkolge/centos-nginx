@@ -9,7 +9,7 @@ echo $"<!DOCTYPE html>
   </head>
   <body>
       <div class=\"rcorners\">
-        <h1>centos-nginx</h1><p>Congratulations, you've successfully deployed the camw/centos-nginx image as container $HOSTNAME.</p>
+        <h1>centos-nginx</h1><p>Congratulations, you've successfully deployed the camw/centos-nginx image as a container.</p>
       </div>
   </body>
 </html>" >> /usr/share/nginx/html/index.html
